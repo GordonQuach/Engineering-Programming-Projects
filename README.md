@@ -3,7 +3,7 @@ These are source codes, primarily written in python, for projects I've made.
 
 * Energy Efficient Stove (Food Energy Calculator.py)
 
-In Engineering 120 Introduction to Engineering, I was tasked with a group to design a stove to minimize energy usage and emission output. I wrote a program in Python to calculate the energy required to cook a meal with inputs from the ingredients' specific heat capacities and densities.
+In Engineering 120 Introduction to Engineering, I was tasked with a group to design a stove to minimize energy usage and emission output intended for those living in developing nations. I wrote a program in Python to calculate the energy required to cook a meal with inputs from the ingredients' specific heat capacities and densities.
 
 * Autonomous Collision Avoidance Car (Car_Test.ino)
 
