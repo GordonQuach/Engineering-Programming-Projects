@@ -35,7 +35,6 @@ is_On = True
 while (is_On):
 
 	# Asks if user would like to find the element or mass.
-
 	decision = raw_input("What would you wish to find today? \nElement or Mass \t")
 
 	if (decision.upper() == "ELEMENT"):
