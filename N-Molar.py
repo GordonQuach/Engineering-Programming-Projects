@@ -39,13 +39,12 @@ while (is_On):
 	decision = raw_input("What would you wish to find today? \nElement or Mass \t")
 
 	if (decision.upper() == "ELEMENT"):
-		pass
-		#element_Symbol = raw_input("Please enter unknown element's atomic mass. \t")
-		#if (element_Symbol in periodic_Table):
-		#	print (periodic_Table[element_Symbol])
+		element_Mass = raw_input("Please enter unknown element's atomic mass. \t")
+		[element for element, mass in periodic_Table.iteritems() if mass == element_Mass]
+		print(element)
 
 	if (decision.upper() == "MASS"):
-		element_Mass = raw_input("Please enter element. \t")
+		element_Symbol = raw_input("Please enter element. \t")
 
 		# Assigning variable to TRUE to initiate loop.
 		in_Table = True
@@ -54,13 +53,13 @@ while (is_On):
 		# However, if it isn't, the while loop will ask the user for the element again until it is found in the periodic
 		# table.
 		while (in_Table):
-			if (element_Mass in periodic_Table):
-				print (str(periodic_Table[element_Mass]) + " grams/mole")
+			if (element_Symbol in periodic_Table):
+				print (str(periodic_Table[element_Symbol]) + " grams/mole")
 				# Once found, set to false.
 				in_Table = False
 			else:
-				print("The element you inputted, " + element_Mass + ", was not in the periodic table... yet.")
-				element_Mass = raw_input("Please enter element. \t")
+				print("The element you inputted, " + element_Symbol + ", was not in the periodic table... yet.")
+				element_Symbol = raw_input("Please enter element. \t")
 
 	# Checks if the user would like to continue or quie the program.
 	cont = raw_input("Would you like to find another mass or element? Y/N \t")
