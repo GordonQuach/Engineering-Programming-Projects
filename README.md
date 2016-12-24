@@ -12,3 +12,7 @@ In Engineering 115 Engineering Graphics, I was tasked to build an autonomous car
 * Project N-Molar (N-Molar.py)
 
 Over break, I wanted to practice more Python related skills and brush up on basic chemistry skills. The premise of it is to take inputs of the element symbol OR name and then print out its molar mass. In addition, another option for the user is to enter the mass, and the program will give the corresponding element. Updates that I wish to contribute to this project is a molar mass calculator option of compounds. Also, I could possible print out error messages to users if compound could not physically exist based on existing laws/guidlines. 
+
+* Battleship (Battleship.py)
+
+Another project I tried to tackle during my break was to try out a popular coding project: Battleship! This was done with help of Codeacademy's Python course since I was also practicing other minor pythong/programming skills. Though the game is finished, I see it at it's premature stage. Updates that I would like to contribute to this project are user inputs of the dimensions of the board and/or amount of ships. Also, I wish to use this project to learn and implement machine learning/AI.
