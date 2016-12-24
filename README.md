@@ -1,4 +1,4 @@
-# Engineering-Projects
+# Engineering/Programming Projects
 These are source codes, primarily written in python, for projects I've made.
 
 * Energy Efficient Stove (Food Energy Calculator.py)
