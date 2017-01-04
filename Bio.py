@@ -46,6 +46,3 @@ while(still_Count):
 		file_Name
 	else:
 		still_Count = False
-
-# Add part where if user wanted to output printed 
-# results into txt file.
