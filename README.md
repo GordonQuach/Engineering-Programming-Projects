@@ -16,3 +16,7 @@ Over break, I wanted to practice more Python related skills and brush up on basi
 * Battleship (Battleship.py)
 
 Another project I tried to tackle during my break was to try out a popular coding project: Battleship! This was done with help of Codeacademy's Python course since I was also practicing other minor pythong/programming skills. Though the game is finished, I see it at it's premature stage. Updates that I would like to contribute to this project are user inputs of the dimensions of the board and/or amount of ships. Also, I wish to use this project to learn and implement machine learning/AI.
+
+* Bioinformatics Practice (Bio.py)
+
+As the title suggests, I have written a program in Python to analyze the count of genetic material in a DNA strand. The user would enter a text file into the program containing such data and my program should do the rest. This simple project has helped me practice basic data analysis as well a fun way to learn how to use the terminal on my Macbook. It also helped introduce me into the field of bioinformatics. An update I would like to see in this program is a way for it to output the count of genetic material into a word/text file for the user to use in a presentation and/or report. 
