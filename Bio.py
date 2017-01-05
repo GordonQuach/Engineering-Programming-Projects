@@ -64,7 +64,7 @@ while(still_Count):
 	 
 	# Closing document for editing. 
 	result_Doc.close()
-	print ("Check your root directory for the docx file of this result.")
+	print ("Check your root directory for the txt file of this result.")
 
 	# Checks to see if user wants to continue.
 	is_Continue = raw_input("Would you like to count another DNA sequence? (yes/no): ")
