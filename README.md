@@ -15,7 +15,7 @@ Over break, I wanted to practice more Python related skills and brush up on basi
 
 * Battleship (Battleship.py)
 
-Another project I tried to tackle during my break was to try out a popular coding project: Battleship! This was done with help of Codeacademy's Python course since I was also practicing other minor pythong/programming skills. Though the game is finished, I see it at it's premature stage. Updates that I would like to contribute to this project are user inputs of the dimensions of the board and/or amount of ships. Also, I wish to use this project to learn and implement machine learning/AI.
+Another project I tried to tackle during my break was to try out a popular coding project: Battleship! This was done with help of Codeacademy's Python course since I was also practicing other minor python/programming skills. Though the game is finished, I see it at it's premature stage. Updates that I would like to contribute to this project are user inputs of the dimensions of the board and/or amount of ships. Also, I wish to use this project to learn and implement machine learning/AI.
 
 * Bioinformatics Practice (Bio.py)
 
