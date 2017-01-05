@@ -12,7 +12,8 @@ still_Count = True
 while(still_Count):
 
 	# Opens and reads in inputted file.
-	file_Name = raw_input("Enter the file storing genetic data: ")
+	file_Name = raw_input("Enter the file storing genetic data: \t")
+	print("\n")
 	open_File = open(file_Name, "r")
 	read_File = open_File.read()
 
@@ -35,10 +36,35 @@ while(still_Count):
 				T += 1
 
 	# Print results.
-	print("Number of G's: " + str(G))
-	print("Number of C's: " + str(C))
-	print("Number of A's: " + str(A))
-	print("Number of T's: " + str(T))
+	result_G = "Number of G's: " + str(G) + "\n"
+	result_C = "Number of C's: " + str(C) + "\n"
+	result_A = "Number of A's: " + str(A) + "\n"
+	result_T = "Number of T's: " + str(T) + "\n"
+
+	# Checks to see if you user wants to output result in a file.
+	######INSERT CODE HERE, GQ.###########
+
+
+
+
+
+
+	# Opens/creates targeted file to output.
+	result_Doc = open ("Genome Results.txt",'w')
+
+	# Entering data into file.
+	print(result_G)
+	result_Doc.write (result_G)
+	print (result_C)
+	result_Doc.write (result_C)
+	print(result_A)
+	result_Doc.write (result_A)
+	print (result_T)
+	result_Doc.write (result_T)
+	 
+	# Closing document for editing. 
+	result_Doc.close()
+	print ("Check your root directory for the docx file of this result.")
 
 	# Checks to see if user wants to continue.
 	is_Continue = raw_input("Would you like to count another DNA sequence? (yes/no): ")
