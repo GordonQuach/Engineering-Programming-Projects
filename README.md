@@ -20,3 +20,7 @@ Another project I tried to tackle during my break was to try out a popular codin
 * Bioinformatics Practice (Bio.py)
 
 As the title suggests, I have written a program in Python to analyze the count of genetic material in a DNA strand. The user would enter a text file into the program containing such data and my program should do the rest. This simple project has helped me practice basic data analysis as well a fun way to learn how to use the terminal on my Macbook. It also helped introduce me into the field of bioinformatics. An update I would like to see in this program is a way for it to output the count of genetic material into a word/text file for the user to use in a presentation and/or report. 
+
+* Permutations (Permutations Print.py)
+
+Wanted to play around with finding out permutations for a range of numbers. User would be able to attain output in a text file. Future updates may be to allow user to enter the values they want to run a permutation of.
