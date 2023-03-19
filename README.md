@@ -1,5 +1,5 @@
 # Engineering/Programming Projects
-These are source codes, primarily written in python, for projects I've made. NOTE: I have more projects/assignments that I completed by myself for CS 1064: Introduction to Programming in Python. However, to prevent Honor Code Violations, I have made the repository secret. Please request if you are interested in seeing them.
+These are source codes, primarily written in Python, for projects I've made. NOTE: I have more projects/assignments that I completed by myself for CS 1064: Introduction to Programming in Python. However, to prevent Honor Code Violations, I have made the repository secret. Please request if you are interested in seeing them.
 
 * Energy Efficient Stove (Food Energy Calculator.py)
 
